@@ -1,8 +1,5 @@
 # Welcome to OneLLM's official github. Here you can find a bunch of different things related to OneLLM, my SaaS. 
 
-## Hi there 👋
-
-
 <!--
 
 **Here are some ideas to get you started:**
